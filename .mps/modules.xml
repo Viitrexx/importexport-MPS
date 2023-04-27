@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/ini.sandbox/ini.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/ini/ini.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/importexport/importexport.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
